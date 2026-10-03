@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Icons/1myprofilesideleft.svg</file>
+        <file>Icons/about.svg</file>
+        <file>Icons/available_cars_tick.svg</file>
+        <file>Icons/book_car.svg</file>
+        <file>Icons/browse_cars.svg</file>
+        <file>Icons/dashboard.svg</file>
+        <file>Icons/logout.svg</file>
+        <file>Icons/my_bookings.svg</file>
+        <file>Icons/my_bookings1.svg</file>
+        <file>Icons/my_profile.svg</file>
+        <file>Icons/settings.svg</file>
+        <file>Icons/browsecars.svg</file>
+    </qresource>
+</RCC>
